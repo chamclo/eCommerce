@@ -23,7 +23,8 @@ gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'devise'
 gem 'carrierwave' 
-gem 'mini_magick'
+# gem 'mini_magick'
+gem 'bcrypt', '~> 3.1.11'
 gem 'cancancan'
 gem 'pry-rails' #for rails c
 gem 'better_errors', group: :development
